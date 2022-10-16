@@ -78,11 +78,11 @@
     .burger {
         width: 5%;
         position: absolute;
-        top: 3%;
         right: 20px;
         display: block!important;
         visibility: visible!important;
         z-index: 9999;
+        align-self: center;
     }
     
     .burger img {
